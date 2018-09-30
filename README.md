@@ -1,6 +1,7 @@
-### BurpSuite Pro, Plugins and Payloads
+<p align="left"><img src="https://github.com/thehackingsage/burpsuite/blob/master/Logo.png?raw=true" /></p>
+<p align="left">BurpSuite Pro, Plugins and Payloads</p>
 
-A Package of Burpsuite Pro v1.7.37, Intruder Payloads and Plugins.
+Article : https://thehacktronian.blogspot.com/2018/09/burpsuitepro.html
 
 Download BurpSuite Pro, Plugins and Payloads : http://bit.ly/burpsuitepro
 
@@ -30,11 +31,9 @@ Download the latest Java Runtime Environment (JRE) : [Click Here](https://www.or
 
 * click next and your pro version will activate 
 
-* that's it !!! start using burpsuite pro 
+that's it !!! start using burpsuite pro 
 
-You Don't Have To Repeat This Process Again & Again To Use It...
-
-after doing it once **Windows User** run **.bat** file & **Linux User** run **.sh** file to use the BurpSuitePro.. 
+**you don't have to repeat this process again and again. after doing it once Windows User run .bat file & Linux User run .sh file to use the BurpSuitePro.**
 
 if you face any problem feel free to ask..
 
@@ -46,9 +45,13 @@ if you face any problem feel free to ask..
 
 * click on Add and Select .jar file & then click on Next
 
+<p align="center"><img src="https://github.com/thehackingsage/burpsuite/blob/master/Plugin.png?raw=true" /></p>
+
 That's It !!! 
 
-One More Thing You Need To Know That Now You Are Using BurpSuite Pro So Now You Can Also Use All Pro Extensions From BApp Store. 
+**One More Thing You Need To Know That Now You Are Using BurpSuite Pro So Now You Can Also Use All Pro Extensions From BApp Store.** 
+
+<p align="center"><img src="https://github.com/thehackingsage/burpsuite/blob/master/BApp.png?raw=true" /></p>
 
 ### Video Tutorial : 
 
