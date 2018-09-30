@@ -19,9 +19,9 @@ Download the latest Java Runtime Environment (JRE) : [Click Here](https://www.or
 
 * extract and open folder
 
-* open ```burp-loader-keygen.jar``` with java
+* open ```BurpSuite-Keygen.jar``` with java
 
-* open ```burpsuite_pro_v1.7.37.jar``` with java
+* open ```BurpSuite-Pro-v1.7.37.jar``` with java
 
 * copy-paste Licence from Keygen to BurpSuite and Click on Next
 
