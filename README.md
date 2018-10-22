@@ -5,6 +5,8 @@ Article : https://thehacktronian.blogspot.com/2018/09/burpsuitepro.html
 
 Download BurpSuite Pro, Plugins and Payloads : http://bit.ly/burpsuitepro
 
+Payloads : https://github.com/1N3/IntruderPayloads
+
 More Payloads : https://github.com/swisskyrepo/PayloadsAllTheThings
 
 ### Requirements :
