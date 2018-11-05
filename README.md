@@ -53,6 +53,10 @@ That's It !!!
 
 **One More Thing You Need To Know That Now You Are Using BurpSuite Pro So Now You Can Also Use All Pro Extensions From BApp Store.** 
 
+**Some Useful Extensions in BApp Store :** 
+ 
+Backslash Powered Scanner, Reflected Parameters, SAML Encoder/Decoder, Bypass WAF, CVSS Calculator, Java deserialization Scanner, Autorize, BurpSmartBuster, Content Type Converter, JSON Beautifier, PsychoPATH, Retire-js, J2EEScan, SAML Raider, Active Scan ++, UUID Detector, Wsdler, Additional Scanner Checks, CO2 Flow, Hackvertor, Meth0dMan & Paramalyzer.
+
 <p align="center"><img src="https://github.com/thehackingsage/burpsuite/blob/master/BApp.png?raw=true" /></p>
 
 ### Video Tutorial : 
