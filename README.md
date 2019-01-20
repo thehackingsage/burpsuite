@@ -19,7 +19,7 @@ Download the latest Java Runtime Environment (JRE) : [Click Here](https://www.or
 
 * Download BurpSuitePro as ZIP : http://bit.ly/burpsuitepro
 
-* extract and open folder
+* extract > BurpSuite Folder > core Folder
 
 * open ```BurpSuite-Keygen.jar``` with java
 
@@ -33,9 +33,9 @@ Download the latest Java Runtime Environment (JRE) : [Click Here](https://www.or
 
 * click next and your pro version will activate 
 
-that's it !!! start using burpsuite pro 
+that's it !!! start using BurpSuite Pro v1.7.37.exe
 
-**you don't have to repeat this process again and again. after doing it once Windows User run .bat file & Linux User run .sh file to use the BurpSuitePro.**
+**you don't have to repeat this process again and again. after doing it once Windows User run .exe file & Linux User run .sh file to use the BurpSuitePro.**
 
 if you face any problem feel free to ask..
 
